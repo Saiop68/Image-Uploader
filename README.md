@@ -52,4 +52,5 @@ Generated files are located in the `dist` folder, AirDrop to the device or open 
 
 - [crypto-js](https://github.com/brix/crypto-js/blob/develop/LICENSE)
 - [bottleneck](https://github.com/SGrondin/bottleneck/blob/master/LICENSE)
+- [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js with Redis-backed state, cross-process priority and crash recovery.
 - [filesize.js](https://github.com/avoidwork/filesize.js/blob/master/LICENSE)
